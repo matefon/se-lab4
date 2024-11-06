@@ -1,0 +1,3 @@
+SUCCESS # gt4500
+FAIL # both empty
+

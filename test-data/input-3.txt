@@ -1,0 +1,3 @@
+# test fire all with a bay empty
+GT4500,1,0,1,1
+TORPEDO,ALL
